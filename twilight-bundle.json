@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "\u0647\u064a\u062f\u0631 \u062a\u0641\u0627\u0639\u0644\u064a",
+        "en": "Interactive Header"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "mahmoudd.ramaddan@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/mahmoud3849/tw-interactive-header",
+    "components": []
+}
